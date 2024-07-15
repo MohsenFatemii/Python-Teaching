@@ -1,6 +1,5 @@
 # Python-Teaching
-
-Certainly! Let's break down each topic:
+Here is the syllabus of the course:
 
 1. **Introduction**
     - An overview of programming and the Python language.
